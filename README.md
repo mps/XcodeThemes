@@ -2,7 +2,7 @@ Themes for Xcode
 ===========
 ## Index
 
-* **DAS** - this is a theme based on Gary Bernhardt's terminal he uses in [Destory All Software Screencasts](http://destroyallsoftware.com) 
+* **DAS** - this is a theme based on Gary Bernhardt's terminal used in [Destory All Software Screencasts](http://destroyallsoftware.com) 
 
 ![das screenshost](./screenshots/das_screenshot.png)
 
