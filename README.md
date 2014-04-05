@@ -14,4 +14,5 @@ Themes for Xcode
 
 1. Copy the theme(s) to the Xcode's ``FontAndColorThemes`` folder (``~/Library/Developer/Xcode/UserData/FontAndColorThemes/``).
 2. Restart Xcode.
-3. Enjoy.
+3. Open Xcode's Preferences and choose your theme from the Fonts & Colors option.
+4. Enjoy.
